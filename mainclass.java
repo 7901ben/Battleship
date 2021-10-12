@@ -40,7 +40,7 @@ public class mainclass {
 	}
 	System.out.println();
 	a.play(z);
-	b.play(z); // player 2
+	//b.play(z); // player 2
 	}//main method
 	
 
