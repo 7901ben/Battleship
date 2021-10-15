@@ -80,4 +80,4 @@ System.out.println("shipsposition "+shipPos[i]);
 
 
 
-}//end of class
+}
